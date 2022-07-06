@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cmarvann/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^6.5.2"
   }
 }
